@@ -1,0 +1,134 @@
+CO2 + H2O —> Bicarbonate | Enzyme: Nature
+GTP —> ATP | Enzyme: Nature
+ATP —> GTP | Enzyme: Nature
+GDP —> ADP | Enzyme: Nature
+ADP —> GDP | Enzyme: Nature
+ —> Glucose | Enzyme: Exchange Reaction
+Glucose + ATP —> Glucose 6-Phosphate + ADP | Enzyme: Hexokinase
+Glucose 6-Phosphate + H2O —> Glucose + Pi | Enzyme: Glucose 6-Phosphatase
+Glucose 6-Phosphate —> Fructose 6-Phosphate | Enzyme: Phosphohexose Isomerase
+Fructose 6-Phosphate —> Glucose 6-Phosphate | Enzyme: Phosphohexose Isomerase
+Fructose 6-Phosphate + ATP —> Fructose 1,6-Biphosphate + ADP | Enzyme: PhosphoFructokinase-1
+Fructose 1,6-Biphosphate + H2O —> Fructose 6-Phosphate + Pi | Enzyme: Fructose 1,6-Biphosphotase-1
+Fructose 1,6-Biphosphate —> Glyceraldehyde 3-Phosphate + DihydroxyAcetone Phosphate | Enzyme: Aldolase
+Glyceraldehyde 3-Phosphate + DihydroxyAcetone Phosphate —> Fructose 1,6-Biphosphate | Enzyme: Aldolase
+DihydroxyAcetone Phosphate —> Glyceraldehyde 3-Phosphate | Enzyme: Triose Phosphate Isomerase
+Glyceraldehyde 3-Phosphate —> DihydroxyAcetone Phosphate | Enzyme: Triose Phosphate Isomerase
+Glyceraldehyde 3-Phosphate + NAD+ + Pi —> 1,3-BiphosphoGlycerate + NADH | Enzyme: G3P Dehydrogenase
+1,3-BiphosphoGlycerate + NADH —> Glyceraldehyde 3-Phosphate + NAD+ + Pi | Enzyme: G3P Dehydrogenase
+1,3-BiphosphoGlycerate + ADP —> 3-PhosphoGlycerate + ATP | Enzyme: Phosphoglycerate Kinase
+3-PhosphoGlycerate + ATP —> 1,3-BiphosphoGlycerate + ADP | Enzyme: Phosphoglycerate Kinase
+3-PhosphoGlycerate —> 2-PhosphoGlycerate | Enzyme: Phosphoglycerate Mutase
+2-PhosphoGlycerate —> 3-PhosphoGlycerate | Enzyme: Phosphoglycerate Mutase
+2-PhosphoGlycerate —> PEP + H2O | Enzyme: Enolase
+PEP + H2O —> 2-PhosphoGlycerate | Enzyme: Enolase
+PEP + ADP —> Pyruvate + ATP | Enzyme: Pyruvate Kinase
+Pyruvate + Bicarbonate + ATP —> OxaloAcetate + H2O + ADP | Enzyme: Pyruvate Carboxylase
+OxaloAcetate + GTP —> PEP + GDP + CO2 | Enzyme: PEP Carboxykinase
+Pyruvate + NAD+ + CoA —> Acetyl-CoA + NADH + CO2 | Enzyme: Pyruvate Dehydrogenase
+Pyruvate + NADH —> L-Lactate + NAD+ | Enzyme: Lactate Dehydrogenase
+L-Lactate + NAD+ —> Pyruvate + NADH | Enzyme: Lactate Dehydrogenase
+Pyruvate —> Acetaldehyde + CO2 | Enzyme: Pyruvate Decarboxilase
+Acetaldehyde + CO2 —> Pyruvate | Enzyme: Pyruvate Decarboxilase
+Acetaldehyde + NADH —> Ethanol + NAD+ | Enzyme: Alcohol Dehydrogenase
+Ethanol + NAD+ —> Acetaldehyde + NADH | Enzyme: Alcohol Dehydrogenase
+Acetyl-CoA + OxaloAcetate + H2O —> Citrate + CoA | Enzyme: Citrate Synthase
+Citrate —> Iso-Citrate | Enzyme: Aconitase
+Iso-Citrate —> Citrate | Enzyme: Aconitase
+Iso-Citrate + NAD+ —> alpha-KetoGlutatare + NADH + CO2 | Enzyme: Iso-Citrate Dehydrogenase
+alpha-KetoGlutatare + NAD+ + CoA —> Succinyl-CoA + NADH + CO2 | Enzyme: alpha_KetoGlutarate Dehydrogenase Complex
+Succinyl-CoA + GDP + Pi —> Succinate + CoA + GTP | Enzyme: Succinyl-CoA Synthesase
+Succinate + CoA + GTP —> Succinyl-CoA + GDP + Pi | Enzyme: Succinyl-CoA Synthesase
+Succinate + FAD —> Fumarate + FADH2 | Enzyme: Succinate Dehydrogenase
+Fumarate + FADH2 —> Succinate + FAD | Enzyme: Succinate Dehydrogenase
+Fumarate + H2O —> L-Malate | Enzyme: Fumarase
+L-Malate —> Fumarate + H2O | Enzyme: Fumarase
+L-Malate + NAD+ —> OxaloAcetate + NADH | Enzyme: L-Malate Dehydrogenase
+OxaloAcetate + NADH —> L-Malate + NAD+ | Enzyme: L-Malate Dehydrogenase
+Iso-Citrate —> Succinate + GlyOxylate | Enzyme: Iso-Citrate Lyase
+GlyOxylate + Acetyl-CoA + H2O —> L-Malate + CoA | Enzyme: L-Malate Synthase
+Glucose 6-Phosphate + NADP+ —> 6-PhosphoGlucono-delta-Lactone + NADPH | Enzyme: Glucose 6-Phosphate Dehydrogenase
+6-PhosphoGlucono-delta-Lactone + NADPH —> Glucose 6-Phosphate + NADP+ | Enzyme: Glucose 6-Phosphate Dehydrogenase
+6-PhosphoGlucono-delta-Lactone + H2O —> 6-PhosphoGluconate | Enzyme: Lactonase
+6-PhosphoGluconate + NADP+ —> D-Ribulose 5-Phosphate + NADPH + CO2 | Enzyme: 6-PhosphoGluconate Dehydrogenase
+D-Ribulose 5-Phosphate —> D-Ribose 5-Phosphate | Enzyme: PhosphoPentose Isomerase
+D-Ribose 5-Phosphate —> D-Ribulose 5-Phosphate | Enzyme: PhosphoPentose Isomerase
+D-Ribulose 5-Phosphate —> Xylulose 5-Phosphate | Enzyme: Ribose 5-Phosphate Epimerase
+Xylulose 5-Phosphate —> D-Ribulose 5-Phosphate | Enzyme: Ribose 5-Phosphate Epimerase
+D-Ribose 5-Phosphate + Xylulose 5-Phosphate —> Seduheptolase 7-Phosphate + Glyceraldehyde 3-Phosphate | Enzyme: Transketolase
+Seduheptolase 7-Phosphate + Glyceraldehyde 3-Phosphate —> D-Ribose 5-Phosphate + Xylulose 5-Phosphate | Enzyme: Transketolase
+Seduheptolase 7-Phosphate + Glyceraldehyde 3-Phosphate —> Fructose 6-Phosphate + Erythrose 4-Phosphate | Enzyme: Transaldolase
+Fructose 6-Phosphate + Erythrose 4-Phosphate —> Seduheptolase 7-Phosphate + Glyceraldehyde 3-Phosphate | Enzyme: Transaldolase
+Xylulose 5-Phosphate + Erythrose 4-Phosphate —> Fructose 6-Phosphate + Glyceraldehyde 3-Phosphate | Enzyme: Transketolase
+Fructose 6-Phosphate + Glyceraldehyde 3-Phosphate —> Xylulose 5-Phosphate + Erythrose 4-Phosphate | Enzyme: Transketolase
+trans-Delta2 Enoyl-CoA + H2O —> L-beta-Hydroxy Acetyl-CoA | Enzyme: Enoyl-CoA Hydratase
+L-beta-Hydroxy Acetyl-CoA + NAD+ —> beta-KetoAcyl-CoA + NADH | Enzyme: beta-Hydroxy Acetyl-CoA Dehydrogenase 
+beta-KetoAcyl-CoA + CoA —> Acetyl-CoA + Acetyl-CoA | Enzyme: Acetyl Transferase Thiolase
+Propionyl-CoA + ATP + Bicarbonate —> D-MethylMalonyl-CoA + ADP + Pi | Enzyme: Propionyl-CoA Carboxylase
+D-MethylMalonyl-CoA —> L-MethylMalonyl-CoA | Enzyme: MethylMalonyl-CoA Epimerase
+L-MethylMalonyl-CoA —> D-MethylMalonyl-CoA | Enzyme: MethylMalonyl-CoA Epimerase
+L-MethylMalonyl-CoA —> Succinyl-CoA | Enzyme: MethylMalonyl-CoA Mutase
+Succinyl-CoA —> L-MethylMalonyl-CoA | Enzyme: MethylMalonyl-CoA Mutase
+Acetyl-CoA + Acetyl-CoA —> AcetoAcetyl-CoA + CoA | Enzyme: Thiolase
+AcetoAcetyl-CoA + CoA —> Acetyl-CoA + Acetyl-CoA | Enzyme: Thiolase
+AcetoAcetyl-CoA + Acetyl-CoA + H2O —> beta-Hydroxy-beta-MethylGlutaryl-CoA + CoA | Enzyme: HMG-CoA Synthase
+beta-Hydroxy-beta-MethylGlutaryl-CoA —> AcetoAcetate + Acetyl-CoA | Enzyme: HMG-CoA Lyase
+AcetoAcetate —> Acetone + CO2 | Enzyme: AcetoAcetate Decarboxilase
+AcetoAcetate + NADH —> D-beta-HydroxyButyrate + NAD+ | Enzyme: D-beta-HydroxyButyrate Dehydrogenase
+D-beta-HydroxyButyrate + NAD+ —> AcetoAcetate + NADH | Enzyme: D-beta-HydroxyButyrate Dehydrogenase
+AcetoAcetate + Succinyl-CoA —> AcetoAcetyl-CoA + Succinate | Enzyme: beta-KetoAcyl-CoA Transferase
+Pyruvate + CoA —> Acetyl-CoA + Formate | Enzyme: Formate C-Acetyl Transferase
+Acetyl-CoA + Formate —> Pyruvate + CoA | Enzyme: Formate C-Acetyl Transferase
+Formate + H+ —> CO2 + H2 | Enzyme: FHL 
+Acetaldehyde + CoA + NAD+ —> Acetyl-CoA + NADH + H+ | Enzyme: Acetaldehyde Dehydrogenase
+Acetyl-CoA + NADH + H+ —> Acetaldehyde + CoA + NAD+ | Enzyme: Acetaldehyde Dehydrogenase
+Acetyl-CoA + Pi —> Acetyl-Phosphate + CoA | Enzyme: Phosphate Acetyl Transferase
+Acetyl-Phosphate + CoA —> Acetyl-CoA + Pi | Enzyme: Phosphate Acetyl Transferase
+Acetyl-Phosphate + ADP —> Acetate + ATP | Enzyme: Acetate Kinase
+Acetate + ATP —> Acetyl-Phosphate + ADP | Enzyme: Acetate Kinase
+Acetate + AcetoAcetyl-CoA —> Acetyl-CoA + AcetoAcetate | Enzyme: CoA Transferase
+AcetoAcetyl-CoA + NADPH + H+ —> HydroxyButyryl-CoA + NADP+ | Enzyme: 3-HydroxyButyryl-CoA Dehydrogenase
+HydroxyButyryl-CoA —> Crotonoyl-CoA + H2O | Enzyme: 3-HydroxyButyryl-CoA Dehydratase
+ —> ADP | Enzyme: Exchange Reaction
+ —> Pi | Enzyme: Exchange Reaction
+ —> H2O | Enzyme: Exchange Reaction
+ —> Bicarbonate | Enzyme: Exchange Reaction
+ —> H+ | Enzyme: Exchange Reaction
+ATP —>  | Enzyme: Exchange Reaction
+H2O —>  | Enzyme: Exchange Reaction
+Pi —>  | Enzyme: Exchange Reaction
+H+ —>  | Enzyme: Exchange Reaction
+H2 —>  | Enzyme: Exchange Reaction
+Bicarbonate —>  | Enzyme: Exchange Reaction
+Glucose 6-Phosphate —>  | Enzyme: Exchange Reaction
+Fructose 6-Phosphate —>  | Enzyme: Exchange Reaction
+Fructose 1,6-Biphosphate —>  | Enzyme: Exchange Reaction
+Glyceraldehyde 3-Phosphate —>  | Enzyme: Exchange Reaction
+DihydroxyAcetone Phosphate —>  | Enzyme: Exchange Reaction
+1,3-BiphosphoGlycerate —>  | Enzyme: Exchange Reaction
+3-PhosphoGlycerate —>  | Enzyme: Exchange Reaction
+2-PhosphoGlycerate —>  | Enzyme: Exchange Reaction
+PEP —>  | Enzyme: Exchange Reaction
+Pyruvate —>  | Enzyme: Exchange Reaction
+OxaloAcetate —>  | Enzyme: Exchange Reaction
+Acetaldehyde —>  | Enzyme: Exchange Reaction
+L-Lactate —>  | Enzyme: Exchange Reaction
+Ethanol —>  | Enzyme: Exchange Reaction
+Citrate —>  | Enzyme: Exchange Reaction
+Iso-Citrate —>  | Enzyme: Exchange Reaction
+Succinate —>  | Enzyme: Exchange Reaction
+Fumarate —>  | Enzyme: Exchange Reaction
+L-Malate —>  | Enzyme: Exchange Reaction
+GlyOxylate —>  | Enzyme: Exchange Reaction
+6-PhosphoGlucono-delta-Lactone —>  | Enzyme: Exchange Reaction
+6-PhosphoGluconate —>  | Enzyme: Exchange Reaction
+D-Ribulose 5-Phosphate —>  | Enzyme: Exchange Reaction
+D-Ribose 5-Phosphate —>  | Enzyme: Exchange Reaction
+Xylulose 5-Phosphate —>  | Enzyme: Exchange Reaction
+Seduheptolase 7-Phosphate —>  | Enzyme: Exchange Reaction
+Erythrose 4-Phosphate —>  | Enzyme: Exchange Reaction
+Adipate —>  | Enzyme: Exchange Reaction
+AcetoAcetate —>  | Enzyme: Exchange Reaction
+Acetate —>  | Enzyme: Exchange Reaction
+Acetone —>  | Enzyme: Exchange Reaction
+D-beta-HydroxyButyrate —>  | Enzyme: Exchange Reaction

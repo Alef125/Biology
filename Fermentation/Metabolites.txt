@@ -1,0 +1,66 @@
+H+
+NAD+
+NADH
+NADP+
+NADPH
+ADP
+ATP
+GDP
+GTP
+Pi
+H2
+CO2
+H2O
+Bicarbonate
+Glucose
+Glucose 6-Phosphate
+Fructose 6-Phosphate
+Fructose 1,6-Biphosphate
+Glyceraldehyde 3-Phosphate
+DihydroxyAcetone Phosphate
+1,3-BiphosphoGlycerate
+3-PhosphoGlycerate
+2-PhosphoGlycerate
+PEP
+Pyruvate
+OxaloAcetate
+Acetyl-CoA
+CoA
+L-Lactate
+Acetaldehyde
+Ethanol
+Citrate
+Iso-Citrate
+OxaloSuccinate
+alpha-KetoGlutatare
+Succinyl-CoA
+Succinate
+Fumarate
+L-Malate
+FAD
+FADH2
+GlyOxylate
+6-PhosphoGlucono-delta-Lactone
+6-PhosphoGluconate
+D-Ribulose 5-Phosphate
+D-Ribose 5-Phosphate
+Xylulose 5-Phosphate
+Seduheptolase 7-Phosphate
+Erythrose 4-Phosphate
+trans-Delta2 Enoyl-CoA
+L-beta-Hydroxy Acetyl-CoA
+beta-KetoAcyl-CoA
+Propionyl-CoA
+D-MethylMalonyl-CoA
+L-MethylMalonyl-CoA
+Adipate
+AcetoAcetyl-CoA
+beta-Hydroxy-beta-MethylGlutaryl-CoA
+AcetoAcetate
+Acetate
+Acetone
+Acetyl-Phosphate
+D-beta-HydroxyButyrate
+HydroxyButyryl-CoA
+Formate
+Crotonoyl-CoA
